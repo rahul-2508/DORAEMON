@@ -465,5 +465,5 @@ sketch.up()
 sketch.goto(0,270)
 sketch.write("Hey, MY Name Is Doraemon.",align='center',font=('Courier',28,'normal'))
 
-#The below line is not necessary to write it's just to solve the problem which is mentioned also.
-x=input()#JUST to stop the screen of graphics because i wrote this in vs code and after doing all stufs in screen will disappear or you can say it automatically exits.
+#The below line is not necessary to write it's just to solve the problem which is also mentioned.
+x=input()#JUST to stop the screen of graphics becauseIi wrote this in Vs Code and after doing all stuffs screen will disappear or you can say it automatically exits.
